@@ -1,0 +1,7 @@
+texlive
+cm-super
+texlive-pictures
+texlive-latex-extra
+latexmk
+biber
+texlive-bibtex-extra
