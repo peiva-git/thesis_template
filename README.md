@@ -10,9 +10,10 @@ presso l'[Università degli Studi di Trieste](https://www.units.it/).
 ## Indice
 
 1. [Requisiti](#requisiti)
-2. [Istruzioni per la compilazione](#istruzioni-per-la-compilazione)
-3. [Confronto fra versioni](#confronto-fra-versioni)
-4. [Ringraziamenti](#ringraziamenti)
+2. [Ambiente di sviluppo](#ambiente-di-sviluppo)
+3. [Istruzioni per la compilazione](#istruzioni-per-la-compilazione)
+4. [Confronto fra versioni](#confronto-fra-versioni)
+5. [Ringraziamenti](#ringraziamenti)
 
 ## Requisiti
 
@@ -21,6 +22,12 @@ eseguire il comando seguente per installare i pacchetti necessari alla compilazi
 ```shell
 apt install texmaker texlive-babel-italian texlive-hyphen-italian texlive-subfigmat texlive-appendix texlive-bibtex-extra biber
 ```
+
+## Ambiente di sviluppo
+
+Oltre a [Overleaf](https://www.overleaf.com/), è disponibile anche un [plugin](https://plugins.jetbrains.com/plugin/9473-texify-idea)
+che permette l'utilizzo dell'IDE Jetbrains IntelliJ con LaTeX.
+Questo repository è stato realizzato utilizzando quest'ultima opzione.
 
 ## Istruzioni per la compilazione
 
