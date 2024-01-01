@@ -1,0 +1,24 @@
+name: Build LaTeX document
+on:
+  push:
+    branches: ["master"]
+
+  workflow_dispatch:
+
+jobs:
+  build-latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up git repository
+        uses: actions/checkout@v3
+      - name: Install texlive
+        uses: DanySK/setup-texlive-action@master
+        with:
+          requirements-file: .github/texlive/requirements.txt
+      - name: Compile with latexmk
+        run: latexmk
+      - name: Upload pdf file
+        uses: actions/upload-artifact@v3
+        with:
+          name: PDF
+          path: out/thesis.pdf
