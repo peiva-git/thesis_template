@@ -1,10 +1,11 @@
 # Template LaTeX per tesi di laurea @ UniTS
 
 [![Build LaTeX document](https://github.com/peiva-git/thesis_template/actions/workflows/compile-pdf.yml/badge.svg)](https://github.com/peiva-git/thesis_template/actions/workflows/compile-pdf.yml)
+![License](https://img.shields.io/github/license/peiva-git/thesis_template)
 
 Questo repository contiene un _template_ base, scritto in LaTeX,
 da utilizzare per la propria tesi di Laurea Triennale o Magistrale
-presso l'Università degli Studi di Trieste.
+presso l'[Università degli Studi di Trieste](https://www.units.it/).
 
 ## Indice
 
