@@ -70,4 +70,4 @@ Per la struttura della tesi è stato utilizzato il _template_ reso disponibile d
 Si ringrazia l'autore, Stefano Bianchi, per averlo reso disponibile e si ringrazia il prof. Alberto Carini
 per aver aggiunto le istruzioni sull'utilizzo.
 
-SI ringrazia Tommaso Fonda per aver reso disponibile in _template_ in inglese.
+SI ringrazia Tommaso Fonda per aver reso disponibile il _template_ in inglese.
