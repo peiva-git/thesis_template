@@ -1,0 +1,31 @@
+% Clickable hyperlinks settings
+\hypersetup{
+    colorlinks,
+    citecolor=green,
+    filecolor=cyan,
+    linkcolor=red,
+    urlcolor=magenta
+}
+
+% Headers' settings
+\fancyhf{}
+\pagestyle{fancy}
+\lhead{}
+\chead{\leftmark}
+\rhead{}
+\lfoot{}
+\cfoot{}
+\rfoot{\thepage}
+
+% Set the root directory for images
+\graphicspath{img}
+
+% style settings for multi-line and inline code
+% see this comment https://tex.stackexchange.com/a/395833 for more details and additional customization
+\lstset{
+    showstringspaces=false,
+    basicstyle=\ttfamily,
+    keywordstyle=\color{blue},
+    commentstyle=\color[gray]{0.6},
+    stringstyle=\color[RGB]{255,150,75}
+}

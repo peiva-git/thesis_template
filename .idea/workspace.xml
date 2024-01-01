@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14426316-5e72-4e05-982d-16e8b7d861b1" name="Changes" comment="" />
+    <list default="true" id="14426316-5e72-4e05-982d-16e8b7d861b1" name="Changes" comment="First commit, empty project">
+      <change afterPath="$PROJECT_DIR$/back/appendix1.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/appendix2.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/appendix3.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/conclusion.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/final_dedication.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bib/bibliography.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/abstract.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/cover.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/dedication.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/introduction.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/units_sigillo_pantone-534-.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/units_sigillo_pantone-534.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/chapter1.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/chapter2.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/chapter3.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/chapter4.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings/settings.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tesi.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thesis_template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thesis_template.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2aHRsuzGT8HylpeT3C7aQQ2sQgh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,12 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/peiva/IdeaProjects/thesis_template/img&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/front" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1703973728870</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit, empty project">
+      <created>1703973787618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703973787618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -40,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, empty project" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit, empty project" />
   </component>
 </project>
