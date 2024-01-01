@@ -4,20 +4,28 @@
 
     Citation sample~\cite{latexcompanion}.
 
-    \begin{figure}[!ht]\label{fig:example}
+    \begin{figure}[!ht]
         \centering
-        \includegraphics[width=.8\textwiimg]{img/units_sigillo_pantone-534}
+        \includegraphics[width=0.8\textwidth]{img/units_sigillo_pantone-534}
         \caption{A figure}
+        \label{fig:example}
     \end{figure}
 
     \lipsum[3]
 
-    \begin{figure}[!ht]
-        \centering
-        \subfigure[Subfigure 1]{\includegraphics[width=.45\textwiimg{img/units_sigillo_pantone-534}}
-        \subfigure[Subfigure 2]{\includegraphics[width=.45\textwidth]{img/units_sigillo_pantone-534}}
-        \subfigure[Subfigure 3]{\includegraphics[width=.45\textwidth]{img/units_sigillo_pantone-534}}
-        \subfigure[Subfigure 4]{\includegraphics[width=.45\textwidth]{img/units_sigillo_pantone-534}}
+    \begin{figure}[h]
+        \begin{subfigure}[t]{0.5\textwidth}
+            \includegraphics[width=0.9\linewidth]{img/units_sigillo_pantone-534}
+        \end{subfigure}
+        \begin{subfigure}[t]{0.5\textwidth}
+            \includegraphics[width=0.9\linewidth]{img/units_sigillo_pantone-534}
+        \end{subfigure}
+        \begin{subfigure}[t]{0.5\textwidth}
+            \includegraphics[width=0.9\linewidth]{img/units_sigillo_pantone-534}
+        \end{subfigure}
+        \begin{subfigure}[t]{0.5\textwidth}
+            \includegraphics[width=0.9\linewidth]{img/units_sigillo_pantone-534}
+        \end{subfigure}
         \caption{A figure with subfigures}
         \label{fig:subexample}
     \end{figure}

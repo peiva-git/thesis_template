@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14426316-5e72-4e05-982d-16e8b7d861b1" name="Changes" comment="First commit, empty project">
-      <change afterPath="$PROJECT_DIR$/back/appendix1.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back/appendix2.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back/appendix3.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back/conclusion.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back/final_dedication.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bib/bibliography.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front/abstract.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front/cover.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front/dedication.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front/introduction.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/units_sigillo_pantone-534-.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/units_sigillo_pantone-534.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/chapter1.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/chapter2.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/chapter3.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/chapter4.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings/settings.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tesi.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thesis_template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thesis_template.iml" afterDir="false" />
+    <list default="true" id="14426316-5e72-4e05-982d-16e8b7d861b1" name="Changes" comment="Corrected filename">
+      <change beforePath="$PROJECT_DIR$/main/chapter1.tex" beforeDir="false" afterPath="$PROJECT_DIR$/main/chapter1.tex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +53,35 @@
       <option name="project" value="LOCAL" />
       <updated>1703973787618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Basic project structure complete">
+      <created>1704123643010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704123643010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added texlive requirements for CI pipeline">
+      <created>1704123716881</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704123716881</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added latexmk configuration file">
+      <created>1704123760452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704123760452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Corrected filename">
+      <created>1704123795664</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704123795664</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +97,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit, empty project" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit, empty project" />
+    <MESSAGE value="Basic project structure complete" />
+    <MESSAGE value="Added texlive requirements for CI pipeline" />
+    <MESSAGE value="Added latexmk configuration file" />
+    <MESSAGE value="Corrected filename" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected filename" />
   </component>
 </project>
