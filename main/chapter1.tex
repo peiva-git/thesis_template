@@ -36,18 +36,22 @@
 
     \lipsum[3]
 
-    \begin{table}
+    \begin{table}[h]
         \centering
-        \begin{tabular}{|c|c|}
-            \hline
-            \textbf{Lorem} & \textbf{Ipsum} \\
-            \hline
-            \hline
-            Dolor & Sit \\
-            \hline
-            Amet &  \\
-            \hline
-        \end{tabular}
+        \begin{center}
+            \begin{tabular}{|c||c|}
+                \hline
+                \multicolumn{2}{|c|}{Text on multiple columns} \\
+                \hline
+                \textbf{Lorem} & \textbf{Ipsum} \\
+                \hline
+                \hline
+                Dolor & Sit \\
+                \hline
+                Amet &  \\
+                \hline
+            \end{tabular}
+        \end{center}
         \caption{A table}
         \label{tab:example}
     \end{table}

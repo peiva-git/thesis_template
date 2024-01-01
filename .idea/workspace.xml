@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14426316-5e72-4e05-982d-16e8b7d861b1" name="Changes" comment="Corrected filename">
+    <list default="true" id="14426316-5e72-4e05-982d-16e8b7d861b1" name="Changes" comment="Added missing translation">
       <change beforePath="$PROJECT_DIR$/main/chapter1.tex" beforeDir="false" afterPath="$PROJECT_DIR$/main/chapter1.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thesis.tex" beforeDir="false" afterPath="$PROJECT_DIR$/thesis.tex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704123795664</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Corrected subfigures syntax">
+      <created>1704124309801</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704124309801</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added missing translation">
+      <created>1704124341003</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704124341003</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +116,8 @@
     <MESSAGE value="Added texlive requirements for CI pipeline" />
     <MESSAGE value="Added latexmk configuration file" />
     <MESSAGE value="Corrected filename" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrected filename" />
+    <MESSAGE value="Corrected subfigures syntax" />
+    <MESSAGE value="Added missing translation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added missing translation" />
   </component>
 </project>
