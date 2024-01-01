@@ -7,6 +7,9 @@ Questo repository contiene un _template_ base, scritto in LaTeX,
 da utilizzare per la propria tesi di Laurea Triennale o Magistrale
 presso l'[Università degli Studi di Trieste](https://www.units.it/).
 
+Nella sezione _Releases_ sono disponibili due versioni, una da utilizzare per la tesi in italiano,
+e una per la tesi in inglese.
+
 ## Indice
 
 1. [Requisiti](#requisiti)
