@@ -3,6 +3,10 @@
 [![Build LaTeX document](https://github.com/peiva-git/thesis_template/actions/workflows/compile-pdf.yml/badge.svg)](https://github.com/peiva-git/thesis_template/actions/workflows/compile-pdf.yml)
 ![License](https://img.shields.io/github/license/peiva-git/thesis_template)
 
+![Template ita](https://img.shields.io/github/downloads/peiva-git/thesis_template/ita%2Fv1.0/total)
+![Template eng](https://img.shields.io/github/downloads/peiva-git/thesis_template/eng%2Fv1.0/total)
+
+
 Questo repository contiene un _template_ base, scritto in LaTeX,
 da utilizzare per la propria tesi di Laurea Triennale o Magistrale
 presso l'[Università degli Studi di Trieste](https://www.units.it/).
