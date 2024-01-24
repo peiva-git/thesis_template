@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Se questo software è stato utile, si consideri di citarlo come segue"
+authors:
+    - family-names: "Bianchi"
+      given-names: "Stefano"
+    - family-names: "Fonda"
+      given-names: "Tommaso"
+    - family-names: "Pelizon"
+      given-names: "Ivan"
+title: "Template per tesi di laurea presso UniTS"
+version: 1.0
+date-released: 2024-01-24
+url: "https://github.com/peiva-git/thesis_template"
